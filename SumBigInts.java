@@ -1,3 +1,5 @@
+// input file sum.txt
+
 package codingAssignment7;
 import java.io.*;
 import java.util.*;
