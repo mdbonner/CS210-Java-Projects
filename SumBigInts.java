@@ -1,4 +1,10 @@
-// input file sum.txt
+/* You are going to write a program that adds together large integers from a data file. The built-in 
+ * type int has a maximum value of 2,147,483,647. Anything larger will cause what is known as overflow.
+ *
+ * The approach in this program is to store each integer in an array of digits, with one 
+ * digit per array element and sums all integers on a line and prints the sum.
+ */
+
 
 package codingAssignment7;
 import java.io.*;
