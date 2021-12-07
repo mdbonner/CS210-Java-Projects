@@ -1,6 +1,5 @@
-/* Mark Bonner, CS210, 12/05/2021
- * Coding Assignment #8b with 
- * Iverson's modifications
+/* Java class that represents a date consisting of a year, month, and day.
+ * Methods include: setDate(), addDays(), addWeeks(), longDate(), dateValid(), daysTo()
  */
 
 package codingAssignment8b;
